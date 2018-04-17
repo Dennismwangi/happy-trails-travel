@@ -1,20 +1,17 @@
-html {
 
-}
+
 body {
-  background-color: D7F9F1;
+  background-color: #D7F9F1;
+  font-family: 'Josefin Slab', serif;
 }
 
 h1.headers {
   font-weight: bold;
-  font-stretch: expanded;
-  font-family: fantasy;
   color: purple ;
 }
 
 .headers {
   font-weight: lighter;
-  font-family: fantasy;
   color: purple ;
 }
 
@@ -27,7 +24,6 @@ h3.headers {
 p.headers {
   text-align: left;
   padding: 5px 50px;
-  font-family: fantasy;
   color: black
 
 }
@@ -41,7 +37,36 @@ p.links {
   text-align: left;
   padding: 5px 50px;
 }
-# contact {
-  color: #1A6AD7
+#contact {
+  color:red;
   text-decoration:underline;
 }
+.travelfacts{
+  text-align: left;
+  padding: 30px 50px;
+  font-weight:bold;
+  background-color: #7BD71A
+}
+.details {
+  border-style: double;
+  padding: 50px 50px
+  color: #D71AA9
+}
+.left {
+  width:40%;
+  float:left;
+}
+
+.right{
+  width:40%;
+  float:right;
+}
+.menu {
+  width: 20%
+  float:right:
+}
+.column {
+    width: 350px;
+    float: left;
+    background-color: #C6D71A
+  }
