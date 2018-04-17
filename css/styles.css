@@ -1,0 +1,47 @@
+html {
+
+}
+body {
+  background-color: D7F9F1;
+}
+
+h1.headers {
+  font-weight: bold;
+  font-stretch: expanded;
+  font-family: fantasy;
+  color: purple ;
+}
+
+.headers {
+  font-weight: lighter;
+  font-family: fantasy;
+  color: purple ;
+}
+
+h3.headers {
+  text-align: left;
+  text-decoration: underline;
+  color: black;
+  padding: 5px 50px;
+}
+p.headers {
+  text-align: left;
+  padding: 5px 50px;
+  font-family: fantasy;
+  color: black
+
+}
+p.links {
+  text-decoration: underline;
+  text-align: center;
+  color: purple;
+
+}
+.destinations{
+  text-align: left;
+  padding: 5px 50px;
+}
+# contact {
+  color: #1A6AD7
+  text-decoration:underline;
+}
